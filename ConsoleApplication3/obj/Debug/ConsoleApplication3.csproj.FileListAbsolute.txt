@@ -1,0 +1,5 @@
+C:\Users\allewellyn\Documents\Work\CodeExamples\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\allewellyn\Documents\Work\CodeExamples\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\allewellyn\Documents\Work\CodeExamples\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\allewellyn\Documents\Work\CodeExamples\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\allewellyn\Documents\Work\CodeExamples\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
